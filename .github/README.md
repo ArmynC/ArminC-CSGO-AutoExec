@@ -67,7 +67,7 @@ It comes **filled** with **optimizations** that make use of the **all network ca
 ## Features
 
 |                            | 🔰 ArminC CSGO AutoExec  | ◾ Other Configs |
-| -------------------------- | :----------------: | :-------------: |
+| -------------------------- | :-----------------: | :--------------: |
 | Optimized values           |         ✔️         |        ❌        |
 | Useful scripts             |         ✔️         |        ❌        |
 | Documented commands        |         ✔️         |        ❌        |
