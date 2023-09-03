@@ -10,6 +10,7 @@
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
 
+<p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
