@@ -13,13 +13,10 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
+  <a href="#symbols">Symbols</a> •
   <a href="#binds">Binds</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
   <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
 
