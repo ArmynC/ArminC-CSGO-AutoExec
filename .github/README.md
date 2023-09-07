@@ -46,7 +46,7 @@ It comes **filled** with **optimizations** that make use of the **all network ca
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-CSGO-AutoExec/archive/refs/heads/main.zip")** the latest version of the config.
+* **[Download](https://github.com/ArmynC/ArminC-CSGO-AutoExec/archive/refs/heads/main.zip)** the latest version of the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-CSGO-AutoExec/#how-to-find-your-steamid3)**.
 * Place the **cfg** folder (from .zip) inside the **local** folder (from the path).
